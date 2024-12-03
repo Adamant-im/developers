@@ -1,0 +1,6 @@
+# NPM
+node_modules
+
+# VitePress
+dist
+cache
