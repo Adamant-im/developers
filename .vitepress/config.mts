@@ -23,7 +23,12 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/adamant-im/adamant-im" },
+      { icon: "x", link: "https://x.com/adamant_im" },
+      {
+        icon: "slack",
+        link: "https://join.slack.com/t/adamant-im/shared_invite/zt-3n32uqh3-TmTM4qPAKcp3PzrPMtKETQ",
+      },
     ],
   },
 });
