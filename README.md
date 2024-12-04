@@ -18,6 +18,8 @@ Then start dev server:
 $ npm run dev
 ```
 
+You should now have the VitePress UI running at _http://localhost:5173_
+
 ## Commands
 
 To build the docs run:
@@ -32,7 +34,7 @@ Once the project is built you can preview `.vitepress/dist` by:
 $ npm run preview
 ```
 
-You should now have the VitePress UI running at _http://localhost:5173_
+The preview should be available at _http://localhost:4173_
 
 ## Links
 
