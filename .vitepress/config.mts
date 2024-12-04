@@ -46,4 +46,5 @@ export default defineConfig({
       },
     ],
   },
+  srcExclude: ["README.md"],
 });
