@@ -1,4 +1,6 @@
 {
+  "name": "developers",
+  "author": "ADAMANT Foundation <devs@adamant.im>",
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
