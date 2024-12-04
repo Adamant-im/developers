@@ -26,7 +26,10 @@ export default defineConfig({
       },
       {
         text: "Best Practices",
-        items: [{ text: "Template classes", link: "/template-classes" }],
+        items: [
+          { text: "Template classes", link: "/template-classes" },
+          { text: "BEM methodology", link: "/classes-bem" },
+        ],
       },
     ],
 
