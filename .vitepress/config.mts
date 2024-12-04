@@ -31,6 +31,10 @@ export default defineConfig({
           { text: "BEM methodology", link: "/classes-bem" },
         ],
       },
+      {
+        text: "Guides",
+        items: [{ text: "Task and PR linking", link: "/task-pr-linking" }],
+      },
     ],
 
     socialLinks: [
