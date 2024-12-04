@@ -24,6 +24,10 @@ export default defineConfig({
           { text: "Pull Requests", link: "/pull-requests" },
         ],
       },
+      {
+        text: "Best Practices",
+        items: [{ text: "Template classes", link: "/template-classes" }],
+      },
     ],
 
     socialLinks: [
