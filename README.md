@@ -32,10 +32,10 @@ Once the project is built you can preview `.vitepress/dist` by:
 $ npm run preview
 ```
 
-You should now have the VitePress UI running at _http://localhost:5173_.
+You should now have the VitePress UI running at _http://localhost:5173_
 
 ## Links
 
 - [ADAMANT Node API Spec Wiki](https://github.com/Adamant-im/adamant/wiki/API-Specification)
 - [ADAMANT Messenger Repo](https://github.com/adamant-im/adamant-im)
-- [VitePress](https://vitepress.dev)
+- [VitePress Docs](https://vitepress.dev)
