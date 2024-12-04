@@ -1,4 +1,4 @@
-# ADAMANT Developers Handbook ![build status](https://img.shields.io/github/actions/workflow/status/Adamant-im/developers/github-pages.yaml?branch=master)
+# ADAMANT Developers Handbook [![build status](https://img.shields.io/github/actions/workflow/status/Adamant-im/developers/github-pages.yaml?branch=master)](https://github.com/Adamant-im/developers/actions/workflows/github-pages.yaml)
 
 Guide for setting up, contributing, and collaborating on the ADAMANT Messenger open-source project
 
